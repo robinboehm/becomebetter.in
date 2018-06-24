@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: imprint
 title: Impressum
 permalink: /imprint/
 ---
@@ -134,5 +134,3 @@ permalink: /imprint/
     </main>
 
 </div>
-</article>
-</div>   

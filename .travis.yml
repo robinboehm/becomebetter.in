@@ -1,6 +1,11 @@
 #use node_js
 language: node_js
 
+cache:
+  bundler: true
+  directories:
+  - node_modules # NPM packages
+
 #define node js version to use
 node_js:
   - "10"

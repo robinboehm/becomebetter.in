@@ -8,7 +8,7 @@ permalink: /imprint/
 <div class="col-md-6">
     <h3>Angaben gemäß § 5 TMG:</h3>
     <p>
-    <strong>Robin Böhm</strong>
+    <strong>Christina Wunderlich & Robin Böhm</strong>
     <br> Willmanndamm 8
     <br> 10827 Berlin
     <br>

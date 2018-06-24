@@ -18,10 +18,10 @@ notifications:
 
 
 before_install:
-  #install rvm 2.5
-  - rvm install 2.5
-  #use rvm 2.5
-  - rvm use 2.5
+  #install rvm 2.2
+  - rvm install 2.2
+  #use rvm 2.2
+  - rvm use 2.2
   #set home varaibles
   - . $HOME/.nvm/nvm.sh && nvm install 10.1 && nvm use 10.1  
   #install gems through bundler
@@ -44,7 +44,7 @@ script:
 
 after_success:
   #deploy to firebase using stored token. 
-  - firebase deploy --token "$FIREBASE_TOKEN" 
+  - firebase deploy --token "FIREBASE_TOKEN" 
 
 env:
   global:
